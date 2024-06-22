@@ -1,0 +1,9 @@
+#pieChart{
+	display: flex;
+    justify-content: center;
+	color: white;
+}
+.legend{
+	color: #6c757d;
+	margin: 45px 0 0 10px  ;
+}
